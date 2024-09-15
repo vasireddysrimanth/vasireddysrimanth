@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Continuous Learning on java Full Stack ,Mern**
 
-- 👨‍💻 All of my projects are available at [https://vasireddysrimanth.github.io/SelfWebiste/](https://vasireddysrimanth.github.io/SelfWebiste/)
+- 👨‍💻 All of my projects are available at [https://vasireddysrimanth.github.io/SelfWebsite/](https://vasireddysrimanth.github.io/SelfWebsite/)
 
 - 💬 Ask me about **Java Full Stack ,Mern**
 
