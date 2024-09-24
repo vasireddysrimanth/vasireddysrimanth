@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WCNQ8R7eBcKQjlM8CNHayMOTh16UnPXN/view?usp=sharing](https://drive.google.com/file/d/1WCNQ8R7eBcKQjlM8CNHayMOTh16UnPXN/view?usp=sharing)
 
-- ⚡ Fun fact **I think iam Professional and Smart Worker**
+- ⚡ Fun fact **I think iam Professional and Smart Worker Working for the Credibility**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
