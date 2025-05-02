@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasireddysrimanth&label=Profile%20views&color=0e75b6&style=flat" alt="vasireddysrimanth" /> </p>
 
-- 🌱 I’m currently learning **Continuous Learning on java Full Stack ,Mern**
+- 🌱 I’m currently learning **Android Developer, java Full Stack ,Mern**
 
 - 👨‍💻 All of my projects are available at [https://vasireddysrimanth.github.io/SelfWebsite/](https://vasireddysrimanth.github.io/SelfWebsite/)
 
-- 💬 Ask me about **Java Full Stack ,Mern**
+- 💬 Ask me about **Android Development and Java Full Stack**
 
 - 📫 How to reach me **vasireddysrimanth49@gmail.com**
 
