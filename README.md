@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=200&section=header&text=Vasireddy%20Srimanth&fontSize=48&fontColor=fff&fontAlignY=38&desc=Android%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Kotlin%20Multiplatform&descAlignY=58&descColor=d0e8ff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vasireddy%20Srimanth&fontSize=48&fontColor=fff&fontAlignY=38&desc=Android%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Kotlin%20Multiplatform&descAlignY=58&descColor=d0e8ff&animation=fadeIn" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Srimanth Vasireddy</h1>
@@ -47,7 +47,7 @@
 
 <h3 align="left">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vasireddysrimanth&theme=flat&no-frame=true&margin-w=8&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vasireddysrimanth&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=6" alt="trophies"/>
 </p>
 
 ---
@@ -212,10 +212,12 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasireddysrimanth&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800" height="180" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasireddysrimanth&layout=compact&langs_count=8&hide_border=true&title_color=0e75b6&text_color=434d58" height="180" alt="top langs"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=vasireddysrimanth&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="180" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vasireddysrimanth&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0e75b6&icon_color=0e75b6&text_color=434d58" height="180" alt="github stats"/>
 </p>
+
+> 💡 **Note to self:** If stats show blank, deploy your own instance → [Fork github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_fr.md#deploy-on-your-own) and replace the URL with your Vercel URL for 100% uptime.
 
 <p>
   <img align="center" src="https://streak-stats.demolab.com/?user=vasireddysrimanth&theme=default" alt="streak" />
@@ -231,5 +233,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer&desc=Building%20for%20credibility%2C%20not%20just%20completion%20%F0%9F%9A%80&descAlignY=55&descColor=fff&fontSize=14" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&desc=Building%20for%20credibility%2C%20not%20just%20completion%20%F0%9F%9A%80&descAlignY=55&descColor=fff&fontSize=14" width="100%"/>
 </p>
