@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vasireddy%20Srimanth&fontSize=48&fontColor=fff&fontAlignY=38&desc=Android%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Kotlin%20Multiplatform&descAlignY=58&descColor=d0e8ff&animation=fadeIn" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" style="width:100%;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Srimanth Vasireddy</h1>
@@ -211,13 +211,13 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasireddysrimanth&layout=compact&langs_count=8&hide_border=true&title_color=0e75b6&text_color=434d58" height="180" alt="top langs"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=vasireddysrimanth&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0e75b6&icon_color=0e75b6&text_color=434d58" height="180" alt="github stats"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasireddysrimanth&layout=compact&langs_count=8&hide_border=true" alt="top langs"/>
 </p>
 
-> 💡 **Note to self:** If stats show blank, deploy your own instance → [Fork github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_fr.md#deploy-on-your-own) and replace the URL with your Vercel URL for 100% uptime.
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasireddysrimanth&show_icons=true&locale=en" alt="vasireddysrimanth"/>
+</p>
 
 <p>
   <img align="center" src="https://streak-stats.demolab.com/?user=vasireddysrimanth&theme=default" alt="streak" />
@@ -232,6 +232,9 @@
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&desc=Building%20for%20credibility%2C%20not%20just%20completion%20%F0%9F%9A%80&descAlignY=55&descColor=fff&fontSize=14" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </p>
+<h4 align="center">⚡ Building for credibility, not just completion 🚀</h4>
