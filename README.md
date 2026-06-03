@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=0e75b6&width=700&height=45&lines=Android+Engineer+%7C+Jetpack+Compose+%7C+Clean+Architecture;AI+%26+ML+on+Android+%7C+TFLite+%26+ML+Kit+%7C+Gemini+API;Kotlin+Multiplatform+%7C+KMP+%2B+Ktor+%7C+Full-Stack;Fintech+POS+%7C+Dejavoo+%2B+PAX+%2B+PhonePe+SDKs;40%25+Crash+Rate+Reduction+%7C+45%25+ANR+Reduction+in+Production;Ready+to+Communicate+·+Collaborate+·+Connect+·+Contribute" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=0e75b6&width=700&height=45&lines=Android+Engineer+%7C+Jetpack+Compose+%7C+Clean+Architecture;AI+%26+ML+on+Android+%7C+TFLite+%26+ML+Kit+%7C+Gemini+API;Kotlin+Multiplatform+%7C+KMP+%2B+Ktor+%7C+Full-Stack;Fintech+POS+%7C+Dejavoo+%2B+PAX+%2B+PhonePe+SDKs;40%25+Crash+Rate+Reduction+%7C+45%25+ANR+Reduction+in+Production;Ready+to+Communicate+%7C+Collaborate+%7C+Connect+%7C+Contribute" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Coding" width="370" src="https://res.cloudinary.com/dqk4mkhtr/image/upload/v1726408923/qodmfpzplqzufb9zvsz6.jpg" />
