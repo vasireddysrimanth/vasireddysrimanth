@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Vasireddy%20Srimanth&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Android%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Kotlin%20Multiplatform&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=200&section=header&text=Vasireddy%20Srimanth&fontSize=48&fontColor=fff&fontAlignY=38&desc=Android%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Kotlin%20Multiplatform&descAlignY=58&descColor=d0e8ff&animation=fadeIn" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Srimanth Vasireddy</h1>
@@ -211,12 +211,10 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasireddysrimanth&layout=compact&langs_count=8&hide_border=true" alt="top langs" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasireddysrimanth&show_icons=true&hide_border=true&count_private=true" alt="github stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasireddysrimanth&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800" height="180" alt="top langs"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=vasireddysrimanth&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="180" alt="github stats"/>
 </p>
 
 <p>
@@ -233,5 +231,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&desc=Building%20for%20credibility%2C%20not%20just%20completion%20%F0%9F%9A%80&descAlignY=55&descColor=ffffff&fontSize=14" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer&desc=Building%20for%20credibility%2C%20not%20just%20completion%20%F0%9F%9A%80&descAlignY=55&descColor=fff&fontSize=14" width="100%"/>
 </p>
