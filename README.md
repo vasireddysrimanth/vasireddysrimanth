@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" style="width:100%;"/>
+  <img src="https://res.cloudinary.com/dqk4mkhtr/image/upload/v1726413600/lfninqikjtywbrooly69.gif" alt="MasterHead" style="width:100%;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Srimanth Vasireddy</h1>
