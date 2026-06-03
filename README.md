@@ -47,7 +47,7 @@
 
 <h3 align="left">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vasireddysrimanth&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vasireddysrimanth&theme=flat&no-frame=false&no-bg=false&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies"/>
 </p>
 
 ---
@@ -82,100 +82,100 @@
 <h4 align="left">📱 Android & Kotlin</h4>
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/><br/><sub><b>Kotlin</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/><sub><b>Java</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/><br/><sub><b>Android</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://developer.android.com/jetpack/compose" target="_blank">
-    <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" width="40" height="40"/><br/><sub><b>Jetpack Compose</b></sub>
+    <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://developer.android.com/studio/images/studio-icon.svg" width="40" height="40"/><br/><sub><b>Android Studio</b></sub>
+    <img src="https://developer.android.com/studio/images/studio-icon.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/><br/><sub><b>SQLite / Room</b></sub>
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
   </a>
 </p>
 
 <h4 align="left">🤖 AI / ML on Android</h4>
 <p align="left">
   <a href="https://www.tensorflow.org/lite" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/><br/><sub><b>TFLite</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://developers.google.com/ml-kit" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" width="40" height="40"/><br/><sub><b>ML Kit</b></sub>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br/><sub><b>Python</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/><br/><sub><b>Pandas</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
   </a>
 </p>
 
 <h4 align="left">🔧 Architecture, Backend & DevOps</h4>
 <p align="left">
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/><br/><sub><b>Firebase</b></sub>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/><br/><sub><b>AWS</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/><br/><sub><b>Spring Boot</b></sub>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><br/><sub><b>Node.js</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br/><sub><b>MySQL</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/><br/><sub><b>MongoDB</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.oracle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/><br/><sub><b>Oracle</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br/><sub><b>Git</b></sub>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   </a>
 </p>
 
 <h4 align="left">🌐 Web & Full Stack</h4>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br/><sub><b>React</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/><br/><sub><b>React Native</b></sub>
+    <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br/><sub><b>HTML5</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><br/><sub><b>CSS3</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br/><sub><b>JavaScript</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/><br/><sub><b>Express.js</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/><br/><sub><b>Bootstrap</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/><br/><sub><b>C</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br/><sub><b>C++</b></sub>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://babeljs.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40" height="40"/><br/><sub><b>Babel</b></sub>
+    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40" height="40"/>
   </a>
 </p>
 
@@ -204,21 +204,23 @@
 - ⚡ **30% faster release cycles** — CI/CD pipelines via GitHub Actions
 - 📶 **Offline-first POS** — Room + Coroutines + Flow + WorkManager for transaction reliability
 - 🏅 **Top 15 Campus Ambassador** — UDGAM IIT Guwahati, Pan-India ranking (Nov 2024 – Dec 2025)
+- 🎓 **Business Entrepreneur** — Led campus outreach & startup–student engagement programs at IIT Guwahati's UDGAM fest
+- 🤝 **Networking & Leadership** — Coordinated entrepreneur sessions, connecting students with startup founders pan-India
 
 ---
 
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasireddysrimanth&show_icons=true&locale=en&layout=compact" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasireddysrimanth&show_icons=true&locale=en&layout=compact&theme=default&cache_seconds=86400" alt="top langs" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasireddysrimanth&show_icons=true&locale=en" alt="github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasireddysrimanth&show_icons=true&locale=en&theme=default&cache_seconds=86400" alt="github stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasireddysrimanth" alt="streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=vasireddysrimanth&theme=default" alt="streak" />
 </p>
 
 ---
