@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vasireddy%20Srimanth&fontSize=48&fontColor=fff&fontAlignY=38&desc=Android%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Kotlin%20Multiplatform&descAlignY=58&descColor=d0e8ff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Vasireddy%20Srimanth&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Android%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Kotlin%20Multiplatform&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Srimanth Vasireddy</h1>
@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0e75b6&width=500&lines=Android+Engineer+%F0%9F%93%B1+%7C+Jetpack+Compose;AI+%26+ML+on+Android+%F0%9F%A4%96+%7C+TFLite+%26+ML+Kit;Kotlin+Multiplatform+%7C+KMP+%2B+Ktor;Fintech+POS+%7C+Dejavoo+%2B+PAX+%2B+PhonePe;Clean+Architecture+%7C+MVVM+%7C+CI%2FCD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=0e75b6&width=600&height=45&lines=Android+Engineer+%7C+Jetpack+Compose;AI+%26+ML+on+Android+%7C+TFLite+%26+ML+Kit;Kotlin+Multiplatform+%7C+KMP+%2B+Ktor;Fintech+POS+%7C+Dejavoo+%2B+PAX+%2B+PhonePe;Clean+Architecture+%7C+MVVM+%7C+CI%2FCD" alt="Typing SVG" />
 </p>
 
 - 🔭 I'm currently working at **ONEHUBPOS** — building enterprise POS & fintech Android apps
@@ -47,7 +47,7 @@
 
 <h3 align="left">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vasireddysrimanth&theme=flat&no-frame=false&no-bg=false&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vasireddysrimanth&theme=flat&no-frame=true&margin-w=8&column=6" alt="trophies"/>
 </p>
 
 ---
@@ -212,11 +212,11 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vasireddysrimanth&show_icons=true&locale=en&layout=compact&theme=default&cache_seconds=86400" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasireddysrimanth&layout=compact&langs_count=8&hide_border=true" alt="top langs" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasireddysrimanth&show_icons=true&locale=en&theme=default&cache_seconds=86400" alt="github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasireddysrimanth&show_icons=true&hide_border=true&count_private=true" alt="github stats" />
 </p>
 
 <p>
@@ -233,5 +233,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&desc=Building%20for%20credibility%2C%20not%20just%20completion%20%F0%9F%9A%80&descAlignY=55&descColor=fff&fontSize=14" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&desc=Building%20for%20credibility%2C%20not%20just%20completion%20%F0%9F%9A%80&descAlignY=55&descColor=ffffff&fontSize=14" width="100%"/>
 </p>
