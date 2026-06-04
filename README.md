@@ -27,7 +27,7 @@
 - 🔒 Specialist in **fintech payment flows** — Dejavoo, PAX, PhonePe SDK integrations
 - 💡 I build with a **credibility-first mindset** — every line of code is accountable to production
 - 📫 Reach me: **vasireddysrimanth49@gmail.com**
-- 📄 Resume: [View on Google Drive](https://drive.google.com/file/d/1WCNQ8R7eBcKQjlM8CNHayMOTh16UnPXN/view?usp=sharing)
+- 📄 Resume: [View on Google Drive](https://drive.google.com/file/d/1H77apVzi6E8HHuCOf4i66XhlvI--RgmS/view?usp=sharing)
 - 🌐 Portfolio: [vasireddysrimanth.github.io/SelfWebsite](https://vasireddysrimanth.github.io/SelfWebsite/)
 
 ---
