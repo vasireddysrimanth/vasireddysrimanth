@@ -1,238 +1,160 @@
-<p align="center">
-  <img src="https://res.cloudinary.com/dqk4mkhtr/image/upload/v1726413600/lfninqikjtywbrooly69.gif" alt="MasterHead" style="width:100%;"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Srimanth Vasireddy</h1>
-<h3 align="center">Android Engineer · Fintech POS Builder · AI/ML on Android · Kotlin Multiplatform · from India 🇮🇳</h3>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,100:D4AF37&height=220&section=header&text=Srimanth%20Vasireddy&fontSize=52&fontColor=D4AF37&fontAlignY=40&desc=Android%20Engineer%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Jetpack%20Compose&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vasireddysrimanth&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-0e75b6?style=for-the-badge&logo=briefcase&logoColor=white" alt="open to work"/>
-  <img src="https://img.shields.io/badge/Tirupati,%20India-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=0e75b6" alt="location"/>
+  <img src="https://komarev.com/ghpvc/?username=vasireddysrimanth&label=Profile%20Views&color=D4AF37&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-D4AF37?style=for-the-badge&logo=briefcase&logoColor=0d0d0d" alt="open to work"/>
+  <img src="https://img.shields.io/badge/Bengaluru,%20India-0d0d0d?style=for-the-badge&logo=googlemaps&logoColor=D4AF37" alt="location"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=0E75B6&width=700&height=45&lines=Android+Engineer+%7C+Jetpack+Compose+%7C+Clean+Architecture;AI+%26+ML+on+Android+%7C+TFLite+%26+ML+Kit+%7C+Gemini+API;Kotlin+Multiplatform+%7C+KMP+%2B+Ktor+%7C+Full-Stack;Fintech+POS+%7C+Dejavoo+%2B+PAX+%2B+PhonePe+SDKs;40%25+Crash+Rate+Reduction+%7C+45%25+ANR+Reduction+in+Production;Ready+to+Communicate+%7C+Collaborate+%7C+Connect+%7C+Contribute" alt="Typing SVG" />
-</p>
-
-<img align="right" alt="Coding" width="360" src="https://res.cloudinary.com/dqk4mkhtr/image/upload/v1726408923/qodmfpzplqzufb9zvsz6.jpg" />
-
----
-
-### 🧭 About Me
-
-- 🔭 Currently building enterprise **POS & Fintech Android apps** at **OneHubPOS**, Tirupati
-- 🤖 Integrating **On-Device AI** — TFLite, ML Kit, Gemini API — into production Android systems
-- 🌱 Mastering **Kotlin Multiplatform**, **Jetpack Compose**, and **On-Device LLMs**
-- 🔒 Specialist in **fintech payment flows** — Dejavoo, PAX, PhonePe SDK integrations
-- 💡 I build with a **credibility-first mindset** — every line of code is accountable to production
-- 📫 Reach me: **vasireddysrimanth49@gmail.com**
-- 📄 Resume: [View on Google Drive](https://drive.google.com/file/d/1H77apVzi6E8HHuCOf4i66XhlvI--RgmS/view?usp=sharing)
-- 🌐 Portfolio: [vasireddysrimanth.github.io/SelfWebsite](https://vasireddysrimanth.github.io/SelfWebsite/)
-
----
-
-### 🔗 Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/vasireddy-srimanth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:vasireddysrimanth49@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://twitter.com/vasireddysrimanth" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
-<a href="https://www.instagram.com/vasireddy_srimanth_chowdary" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
-<a href="https://www.kaggle.com/srimanthchowdary" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>&nbsp;
-<a href="https://www.hackerrank.com/profile/vasireddysriman1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;
-<a href="https://www.facebook.com/srimanth.vasireddy.3" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=760&lines=Building+production-grade+POS+%26+Fintech+Android+apps;Kotlin+%7C+Jetpack+Compose+%7C+Clean+Architecture;Reduced+crash+rate+by+40%25+at+OneHubPOS;On-device+AI+with+ML+Kit+%2B+Gemini" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💼 Work Experience
+### <code>whoami</code>
 
-```
-🏢  ONEHUBPOS                                          Oct 2024 – Present
-    Android Developer · Tirupati, India
-    │
-    ├── 💳  Fintech POS apps integrating Dejavoo, PAX & PhonePe SDKs
-    │       End-to-end transaction workflows · Real-time payment processing
-    │       POS hardware communication · Secure token-based authentication
-    │
-    ├── 🔻  Crash rate ↓ 40%  via Crashlytics + structured concurrency + LeakCanary
-    │       ANR rate  ↓ 45%  via performance profiling across payment-critical flows
-    │
-    ├── 📶  Offline-first architecture: Room + Coroutines + Flow + WorkManager
-    │       Transaction reliability in unstable retail POS network conditions
-    │
-    ├── ⚡  CI/CD via GitHub Actions → 30% faster release cycles
-    │       Automated build, test & deployment pipelines
-    │
-    ├── 🔄  Flow-based reactive streams for real-time transaction data processing
-    │       Improved UI responsiveness under high-load payment sessions
-    │
-    └── 🎨  Led migration of the entire application UI from XML to Jetpack Compose
-            Improved UI consistency, reduced boilerplate, faster feature delivery
+```txt
+$ whoami --verbose
+Name        : Srimanth Vasireddy
+Role        : Android Engineer @ OneHubPOS
+Location    : Bengaluru, India
+Focus       : Fintech / POS Systems, Jetpack Compose, On-device AI
+Stack       : Kotlin • Compose • KMP • Ktor • Firebase • Gemini AI
+Email       : vasireddysrimanth49@gmail.com
 ```
 
----
-
-### 🚀 Technical Projects
-
-**🧠 StudyGem — AI-Powered Textbook Study Assistant** &nbsp;·&nbsp; *[View Project](https://github.com/vasireddysrimanth)*
-
-> `Kotlin` · `Jetpack Compose` · `CameraX` · `ML Kit` · `Gemini AI (Firebase AI Logic)` · `MVVM` · `Hilt` · `Room`
-
-- Scans textbook pages via CameraX and extracts text with on-device ML Kit OCR — works fully offline, no internet required
-- Streams 3 concurrent Gemini AI prompts via Kotlin Coroutines: a 5-point summary with reading time, 5 structured MCQs (JSON), and an auto difficulty badge — each result renders independently as it streams in
-- Interactive quiz UI with real-time score tracking and Room-backed persistent session history
-
-**🛒 StoreApp — Production-Grade E-Commerce Android App** &nbsp;·&nbsp; *[View Project](https://github.com/vasireddysrimanth)*
-
-> `Kotlin` · `MVVM` · `Clean Architecture` · `Room` · `Retrofit` · `Firebase` · `Paging 3` · `Jetpack Compose` · `WorkManager`
-
-- Architected strict separation of data, domain & presentation layers using Clean Architecture — maximising testability and feature-module scalability
-- Offline-first data strategy: Room as single source of truth + Retrofit sync + WorkManager scheduling → **60% fewer unnecessary API calls** through intelligent caching
-- Firebase Auth + Firestore real-time listeners + Crashlytics; Paging 3 paginated listings, reactive UI via StateFlow & sealed classes
-
-**✈️ Travel Marketplace — Kotlin Multiplatform + Ktor Backend** &nbsp;·&nbsp; *[View Project](https://github.com/vasireddysrimanth)*
-
-> `Kotlin Multiplatform` · `Compose Multiplatform` · `Ktor Client & Server` · `MySQL` · `JWT` · `Koin` · `Coroutines`
-
-- Full-stack travel marketplace sharing domain & data layers across Android and Ktor backend via KMP — single business logic codebase, zero duplication
-- JWT authentication + role-based access control; end-to-end booking workflows, review system, paginated search with optimised SQL queries
-- Modular architecture enabling clean platform-independent unit testing of shared business logic
+Android engineer building enterprise POS & fintech apps in production — payment SDK integrations (Dejavoo, PAX, PhonePe), offline-first architecture, and AI-powered learning tools. Currently migrating a full production app from XML to Jetpack Compose.
 
 ---
 
-### 🎯 Learning Roadmap & Engineering Goals
+### <code>Tech Arsenal</code>
 
-| 🔬 Currently Deepening | 🧭 Next Frontier | 🚀 Endgame Vision |
+<p align="center">
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python&theme=dark" /><br/><br/>
+  <b>Android & Architecture</b><br/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM-0d0d0d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-0d0d0d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Coroutines_%2F_Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hilt-0d0d0d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Room-0d0d0d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Paging_3-0d0d0d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WorkManager-0d0d0d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/><br/><br/>
+  <b>AI / ML</b><br/>
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase_AI_Logic-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white"/><br/><br/>
+  <b>Backend & Database</b><br/>
+  <img src="https://skillicons.dev/icons?i=ktor,mysql,firebase&theme=dark" /><br/><br/>
+  <b>Fintech / Payments</b><br/>
+  <img src="https://img.shields.io/badge/Dejavoo_SDK-0d0d0d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PAX_Integration-0d0d0d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PhonePe-5F259F?style=for-the-badge&logo=phonepe&logoColor=white"/><br/><br/>
+  <b>Testing & DevOps</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,githubactions&theme=dark" />
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Espresso-0d0d0d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mockito-0d0d0d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Crashlytics-FFA000?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeakCanary-0d0d0d?style=for-the-badge"/>
+</p>
+
+---
+
+### <code>Featured Projects</code>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**📱 StudyGem — AI-Powered Textbook Study Assistant**
+`Kotlin` `Compose` `CameraX` `ML Kit` `Gemini AI`
+
+Scans textbook pages via CameraX, extracts text with on-device OCR (no internet needed), then streams 3 concurrent Gemini AI prompts to generate a 5-point summary, 5 structured MCQs, and an auto difficulty badge — each result loading independently as it streams.
+
+[`Repo →`](https://github.com/vasireddysrimanth)
+
+</td>
+<td width="50%" valign="top">
+
+**🛒 StoreApp — E-Commerce Android Application**
+`Kotlin` `MVVM` `Room` `Retrofit` `Firebase`
+
+Production-grade e-commerce app with strict data/domain/presentation separation. Offline-first with Room + WorkManager cut API calls by 60%. Real-time Firestore listeners, Paging 3 product lists, reactive UI via StateFlow.
+
+[`Repo →`](https://github.com/vasireddysrimanth)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**✈️ Travel Marketplace — KMP + Ktor Backend**
+`Kotlin Multiplatform` `Compose Multiplatform` `Ktor` `MySQL`
+
+Full-stack travel marketplace sharing domain/data layers across Android and backend via KMP. REST APIs built with Ktor Server, JWT auth, role-based access control, booking workflows, and optimized SQL search.
+
+[`Repo →`](https://github.com/vasireddysrimanth)
+
+</td>
+<td width="50%" valign="top">
+
+**💼 OneHubPOS — Enterprise POS & Fintech Platform**
+`Kotlin` `Compose` `Coroutines` `Payment SDKs`
+
+Enterprise POS app integrating Dejavoo, PAX & PhonePe payment SDKs. Cut crash rate 40% and ANR rate 45% through structured concurrency and profiling. Offline-first transaction reliability via Room + Coroutines + Flow + WorkManager.
+
+*Production @ OneHubPOS*
+
+</td>
+</tr>
+</table>
+
+> **Note:** Replace the placeholder `github.com/vasireddysrimanth` repo links above with the real repository URLs once you send them over.
+
+---
+
+### <code>GitHub Stats</code>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vasireddysrimanth&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=D4AF37&text_color=c9c9c9"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vasireddysrimanth&theme=dark&hide_border=true&background=0d0d0d&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasireddysrimanth&theme=react-dark&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=ffffff&hide_border=true" width="90%"/>
+</p>
+
+---
+
+### <code>What I'm Up To</code>
+
+| 🔨 Building | 📚 Learning | ⚡ Fun Fact |
 |---|---|---|
-| On-Device AI — TFLite, ML Kit, Gemini API | LLM inference on Android | Ship a production AI-first Android product serving real users |
-| Kotlin Multiplatform (KMP + Ktor full-stack) | AWS Cloud infrastructure + Android backend systems | Full-stack KMP app at enterprise scale |
-| Jetpack Compose — advanced animations & custom layouts | Compose Multiplatform for iOS parity | Single Compose UI codebase across Android + iOS |
-| Secure fintech architecture & payment flow hardening | ML model optimisation for mobile edge deployment | AI-powered intelligence layer in POS systems |
+| Migrating OneHubPOS from XML to full Jetpack Compose | Advanced KMP & Compose Multiplatform patterns | Top 15 Nationwide — UDGAM IIT Guwahati Campus Ambassador |
 
 ---
 
-### 🛠️ Technical Stack
-
-<h4>📱 Android & Kotlin Core</h4>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" title="Kotlin"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" title="Android"/>&nbsp;&nbsp;
-<img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" width="40" height="40" title="Jetpack Compose"/>&nbsp;&nbsp;
-<img src="https://developer.android.com/studio/images/studio-icon.svg" width="40" height="40" title="Android Studio"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" title="SQLite / Room"/>
-</p>
-
-<h4>🤖 AI / ML on Android</h4>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow Lite"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" width="40" height="40" title="ML Kit"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas"/>
-</p>
-
-<h4>🔧 Architecture, Backend & DevOps</h4>
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" title="Firebase"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" title="Spring"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" title="Node.js"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" title="MongoDB"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" title="Oracle"/>&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git"/>
-</p>
-
-<h4>🌐 Web & Full Stack</h4>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="React"/>&nbsp;&nbsp;
-<img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" title="React Native"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="HTML5"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" title="CSS3"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" title="Express.js"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" title="Bootstrap"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
-</p>
-
----
-
-### 🏆 Key Achievements & Credibility Markers
-
-| Achievement | Impact | How |
-|---|---|---|
-| 🔻 **40% Crash Rate Reduction** | Production stability at scale | Crashlytics + structured concurrency + LeakCanary memory debugging |
-| 🔻 **45% ANR Rate Reduction** | Zero payment-flow interruptions | Systematic performance profiling across every critical payment path |
-| ⚡ **30% Faster Release Cycles** | Ship faster, break nothing | GitHub Actions CI/CD — automated build, test & deploy pipelines |
-| 📶 **Offline-First POS Architecture** | Transaction reliability in any network | Room + Coroutines + Flow + WorkManager — data integrity guaranteed |
-| 📉 **60% Fewer API Calls** | Resource efficiency in StoreApp | Intelligent Room caching + WorkManager background sync strategy |
-| 🏅 **Top 15 Campus Ambassador** | Pan-India competitive recognition | UDGAM IIT Guwahati — ranked among the best across all institutions |
-| 🤝 **Startup–Student Bridge** | Real-world leadership impact | Led outreach programs connecting students with founders pan-India |
-
----
-
-### 🎓 Recognition — UDGAM IIT Guwahati
-
-```
-🏛️  IIT Guwahati — UDGAM Entrepreneurship Summit      Nov 2024 – Dec 2025
-    Campus Ambassador & Business Entrepreneur
-    │
-    ├── 🏅  Top 15 Nationwide Ranking
-    │       Secured a Top 15 position among all Campus Ambassadors
-    │       competing across institutions pan-India
-    │
-    ├── 🤝  Startup–Student Engagement
-    │       Led campus outreach initiatives coordinating sessions
-    │       between students and startup founders across India
-    │
-    ├── 🎙️  Entrepreneurial Leadership
-    │       Organised and hosted entrepreneur networking events,
-    │       workshops, and mentorship programs on campus
-    │
-    └── 🌐  Pan-India Network
-            Built a professional network spanning institutions, founders,
-            and emerging entrepreneurs across the country
-```
-
----
-
-### 📊 Contribution Activity
+### <code>Achievements</code>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasireddysrimanth&show_icons=true&theme=default&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=333" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasireddysrimanth&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasireddysrimanth&bg_color=ffffff&color=0e75b6&line=0e75b6&point=1f6feb&hide_border=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vasireddysrimanth&theme=darkhub&no-frame=true&margin-w=10&column=6" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### <code>Socials</code>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vasireddysrimanth&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
+  <a href="https://linkedin.com/in/vasireddy-srimanth"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vasireddysrimanth49@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/vasireddysrimanth"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=D4AF37"/></a>
 </p>
 
----
-
-### 🎓 Education
-
-**B.Tech in Computer Science and Engineering**
-Bharat Institute of Engineering and Technology (BIET) · Graduated Aug 2024
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-</p>
-
-<h3 align="center">⚡ Building for credibility, not just completion 🚀</h3>
-<h4 align="center">Always ready to Communicate · Collaborate · Connect · Contribute</h4>
-<p align="center">
-  <i>Every line of code I write is accountable to production — I build for capability, credibility, and lasting character.</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:D4AF37&height=120&section=footer" width="100%"/>
