@@ -1,20 +1,42 @@
 <!-- ============================================================ -->
-<!-- SECTION 1: TOP — TERMINAL PORTRAIT & INFO CARD -->
+<!-- SECTION 1: TOP — PHOTO + INFO (plain image + plain code block, zero upload risk) -->
 <!-- ============================================================ -->
-
-<h3><code>The Cipher Stack</code></h3>
 
 <table>
 <tr>
-<td><img src="./hxni-ascii.svg" width="370" alt="ASCII portrait" /></td>
-<td><img src="./info-card.svg" width="490" alt="Info card" /></td>
+<td width="30%" align="center" valign="top">
+  <img src="./profile.jpg" width="230" alt="Srimanth Vasireddy" style="border-radius:10px;"/>
+</td>
+<td width="70%" valign="top">
+
+```
+┌──────────────────────────────────────────────────┐
+│  srimanth@onehubpos ~ %  neofetch                 │
+├──────────────────────────────────────────────────┤
+   OS         : Android Engineering, Est. 2024
+   Host       : OneHubPOS — Fintech POS Systems
+   Role       : Android Developer
+   Location   : Bengaluru, India · IST (UTC+5:30)
+   Stack      : Kotlin · Compose · KMP · Ktor · Firebase
+   AI Layer   : Gemini AI · ML Kit · Firebase AI Logic
+   Payments   : Dejavoo SDK · PAX · PhonePe
+   Testing    : JUnit5 · Espresso · Mockito · Turbine
+   Portfolio  : vasireddysrimanth.github.io/SelfWebsite
+   GitHub     : github.com/vasireddysrimanth
+   Email      : vasireddysrimanth49@gmail.com
+└──────────────────────────────────────────────────┘
+```
+
+</td>
 </tr>
 </table>
+
+> 📸 Only **one** file to upload for this to work: `profile.jpg` in the repo root. It's a plain JPG (not an animated SVG), so there's nothing to break — if it doesn't show, the filename/case just doesn't match.
 
 ---
 
 <!-- ============================================================ -->
-<!-- SECTION 2: CINEMATIC HEADER -->
+<!-- SECTION 2: CINEMATIC HEADER (100% externally hosted, zero upload) -->
 <!-- ============================================================ -->
 
 <h1 align="center">
@@ -52,14 +74,19 @@ I'm an Android engineer who ships to production, not just to a portfolio. At **O
 ---
 
 <!-- ============================================================ -->
-<!-- SECTION 3: LIVE CONTRIBUTION HEATMAP -->
+<!-- SECTION 3: LIVE CONTRIBUTIONS (external service — always renders) -->
 <!-- ============================================================ -->
 
-<h3><code>Contributions</code></h3>
+### 📊 Contributions
 
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasireddysrimanth&theme=react-dark&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true" width="100%" alt="contribution activity graph"/>
+</p>
 
-> This heatmap is fully custom-rendered — not a third-party badge. `fetch_contributions.py` scrapes the public calendar and computes streak metrics; `render_heatmap_svg.py` draws the gold-gradient SVG; the GitHub Actions workflow re-runs both daily and commits the update automatically.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vasireddysrimanth&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&icon_color=D4AF37&text_color=c9c9c9"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vasireddysrimanth&theme=dark&hide_border=true&background=0d0d0d&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37"/>
+</p>
 
 ---
 
@@ -73,7 +100,7 @@ I'm an Android engineer who ships to production, not just to a portfolio. At **O
   **🧠 StudyGem — AI-Powered Textbook Study Assistant**
   `Kotlin` `Compose` `CameraX` `ML Kit` `Gemini AI` `Hilt` `Room`
 
-  Scans textbook pages via CameraX, extracts text with on-device ML Kit OCR (fully offline), then streams 3 concurrent Gemini AI prompts — a 5-point summary with reading time, 5 structured MCQs, and an auto difficulty badge — each rendering independently as it streams in. Includes an interactive quiz UI with real-time scoring and Room-backed session history.
+  Scans textbook pages via CameraX, extracts text with on-device ML Kit OCR (fully offline), then streams 3 concurrent Gemini AI prompts — a 5-point summary with reading time, 5 structured MCQs, and an auto difficulty badge — each rendering independently as it streams in.
 
   [`→ View Repo`](https://github.com/vasireddysrimanth)
 
@@ -84,7 +111,7 @@ I'm an Android engineer who ships to production, not just to a portfolio. At **O
   **🛒 StoreApp — Production-Grade E-Commerce App**
   `Kotlin` `MVVM` `Clean Architecture` `Room` `Retrofit` `Firebase`
 
-  Strict data/domain/presentation separation. Offline-first: Room as single source of truth + Retrofit sync + WorkManager scheduling → **60% fewer API calls**. Firebase Auth, Firestore real-time listeners, Crashlytics, Paging 3 listings, StateFlow-driven reactive UI.
+  Strict data/domain/presentation separation. Offline-first: Room + Retrofit sync + WorkManager scheduling → **60% fewer API calls**. Firebase Auth, Firestore real-time listeners, Crashlytics, Paging 3 listings, StateFlow-driven reactive UI.
 
   [`→ View Repo`](https://github.com/vasireddysrimanth)
 
@@ -97,7 +124,7 @@ I'm an Android engineer who ships to production, not just to a portfolio. At **O
   **✈️ Travel Marketplace — KMP + Ktor Backend**
   `Kotlin Multiplatform` `Compose Multiplatform` `Ktor` `MySQL` `JWT` `Koin`
 
-  Full-stack marketplace sharing domain & data layers across Android and a Ktor backend via KMP — one business-logic codebase, zero duplication. JWT auth, role-based access control, booking workflows, review system, and optimized SQL search.
+  Full-stack marketplace sharing domain & data layers across Android and a Ktor backend via KMP. JWT auth, role-based access control, booking workflows, review system, and optimized SQL search.
 
   [`→ View Repo`](https://github.com/vasireddysrimanth)
 
@@ -108,7 +135,7 @@ I'm an Android engineer who ships to production, not just to a portfolio. At **O
   **💼 OneHubPOS — Enterprise POS & Fintech Platform**
   `Kotlin` `Compose` `Coroutines` `Payment SDKs` `Production`
 
-  Enterprise POS integrating Dejavoo, PAX & PhonePe payment SDKs — end-to-end transaction workflows and hardware communication. Cut crash rate 40% and ANR rate 45%. Offline-first reliability via Room + Coroutines + Flow + WorkManager. Led full XML → Jetpack Compose migration.
+  Enterprise POS integrating Dejavoo, PAX & PhonePe payment SDKs. Cut crash rate 40% and ANR rate 45%. Offline-first reliability via Room + Coroutines + Flow + WorkManager. Led full XML → Jetpack Compose migration.
 
   *Production system @ OneHubPOS*
 
@@ -116,7 +143,7 @@ I'm an Android engineer who ships to production, not just to a portfolio. At **O
 </tr>
 </table>
 
-> **Note:** Repo links currently point to `github.com/vasireddysrimanth` as placeholders — send the real project URLs and I'll wire them in.
+> **Note:** Repo links point to `github.com/vasireddysrimanth` as placeholders — send the real project URLs and I'll wire them in.
 
 ---
 
@@ -180,13 +207,6 @@ I'm an Android engineer who ships to production, not just to a portfolio. At **O
 ---
 
 ### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" title="Pair Extraordinaire"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" title="Pull Shark"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" title="YOLO"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90" title="Starstruck"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vasireddysrimanth&theme=darkhub&no-frame=true&margin-w=10&column=6"/>
